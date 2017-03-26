@@ -1,6 +1,6 @@
 G.AddData({
-    Name:'Thot Mod',
-    Author:'fancy and torcado',
+    name:'Thot Mod',
+    author:'fancy and torcado',
     desc:'This mod makes it possible to create thots. Thots are an improved version of Dreamers.',
     engineVersion:1,
     manifest:'modManifest.js',
