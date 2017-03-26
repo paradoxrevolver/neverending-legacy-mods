@@ -5,7 +5,7 @@ G.AddData({
     engineVersion:1,
     manifest:'modManifest.js',
     requires:['Default dataset*'],
-    sheets:{'thotSheet':'https://raw.githubusercontent.com/paradoxrevolver/neverending-legacy-mods/master/thotModIconSheet.png'},//custom stylesheet (note : broken in IE and Edge for the time being)
+    sheets:{'thotSheet':'/thotModIconSheet.png'},//custom stylesheet (note : broken in IE and Edge for the time being)
     func:function()
     {
 		new G.Unit({
