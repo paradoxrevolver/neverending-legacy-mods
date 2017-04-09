@@ -3,7 +3,7 @@ G.AddData({
     Author:'fancy and torcado',
     desc:'This mod makes it possible to create thots. Thots are an improved version of Dreamers.',
     engineVersion:1,
-    manifest:'modManifest.js',
+    manifest:'https://rawgit.com/Generatoror/hello-world/master/catManifest.js',
     requires:['Default dataset*'],
     sheets:{'thotSheet':'https://raw.githubusercontent.com/paradoxrevolver/neverending-legacy-mods/master/thotModIconSheet.png'},//custom stylesheet (note : broken in IE and Edge for the time being)
     func:function()
